@@ -1,3 +1,9 @@
 html {
   font-family: Overpass, sans-serif;
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  color: #fff;
+}
+
+.icon svg {
+  color: #fff;
 }
