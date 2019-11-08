@@ -7,3 +7,19 @@ html {
 .icon svg {
   color: #fff;
 }
+
+.section {
+  width: 100%;
+  border-right: 2px solid rgba(255, 255, 255, 1);
+}
+
+.content {
+  border-bottom: 2px solid rgba(255, 255, 255, 1);
+}
+
+@media only screen and (min-width: 60em) {
+
+  .content {
+    border-bottom: none;
+  }
+}
