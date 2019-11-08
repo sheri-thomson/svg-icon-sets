@@ -17,9 +17,20 @@ html {
   border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
 
+.btn-ghost {
+  border-color: rgba(255, 255, 255, 1);
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: #fff;
+}
+
 @media only screen and (min-width: 60em) {
 
   .content {
     border-bottom: none;
   }
+
 }
